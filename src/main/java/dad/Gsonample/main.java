@@ -1,3 +1,4 @@
+package dad.Gsonample;
 import java.util.Scanner;
 
 public class main {
